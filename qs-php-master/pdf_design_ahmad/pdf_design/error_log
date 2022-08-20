@@ -1,0 +1,704 @@
+[01-Oct-2020 03:53:39 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[01-Oct-2020 03:53:39 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[01-Oct-2020 04:03:32 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[01-Oct-2020 04:03:32 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[03-Oct-2020 00:53:43 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[03-Oct-2020 00:53:43 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[03-Oct-2020 05:32:22 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[03-Oct-2020 05:32:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[03-Oct-2020 05:32:24 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[03-Oct-2020 05:32:24 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[03-Oct-2020 05:32:43 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[03-Oct-2020 05:32:43 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[03-Oct-2020 05:33:03 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[03-Oct-2020 05:33:03 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[05-Oct-2020 06:26:58 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[05-Oct-2020 06:26:58 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[05-Oct-2020 06:26:58 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[05-Oct-2020 06:26:58 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[05-Oct-2020 08:03:54 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[05-Oct-2020 08:03:54 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[05-Oct-2020 08:17:49 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:17:49 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:17:50 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:17:50 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:17:50 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:17:50 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:17:50 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:17:50 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:19:06 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[05-Oct-2020 08:19:06 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/nccp_pdf.php on line 109
+[09-Oct-2020 00:18:39 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[09-Oct-2020 00:18:39 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[09-Oct-2020 00:19:22 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[09-Oct-2020 00:19:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[09-Oct-2020 00:54:45 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[09-Oct-2020 00:54:45 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[09-Oct-2020 00:54:56 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[09-Oct-2020 00:54:56 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[09-Oct-2020 15:06:53 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[09-Oct-2020 15:06:53 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[27-Oct-2020 04:36:05 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[27-Oct-2020 04:36:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[27-Oct-2020 04:44:48 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[27-Oct-2020 04:44:48 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[29-Oct-2020 23:33:55 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[29-Oct-2020 23:33:55 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/privacy_pdf.php on line 379
+[31-Oct-2020 06:30:19 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[31-Oct-2020 06:30:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[03-Nov-2020 12:45:05 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[03-Nov-2020 12:45:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[04-Nov-2020 13:23:49 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[04-Nov-2020 13:23:49 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[05-Nov-2020 22:36:26 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[05-Nov-2020 22:36:26 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[07-Nov-2020 05:45:02 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[07-Nov-2020 05:45:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[16-Nov-2020 21:29:27 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[16-Nov-2020 21:29:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[16-Nov-2020 21:29:46 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[16-Nov-2020 21:29:46 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:49:16 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:49:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:53:56 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:53:56 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:53:56 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:53:59 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:53:59 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:53:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:56:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:56:41 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:56:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:56:44 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:56:44 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:56:44 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:56:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:56:51 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:56:51 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:57:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:57:07 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:57:07 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:57:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:57:22 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:57:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:59:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:59:22 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:59:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:59:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:59:27 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:59:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:59:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Nov-2020 04:59:27 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 04:59:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:00:59 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:00:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:01:09 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:01:09 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:03:19 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:03:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:03:21 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:03:21 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:05:29 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:05:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:07:51 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:07:51 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:13:43 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:13:43 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:19:13 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:19:13 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/credit_guide_pdf.php on line 227
+[22-Nov-2020 05:43:38 America/Chicago] PHP Warning:  require_once(pdf/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/ss.php on line 87
+[22-Nov-2020 05:43:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'pdf/dompdf/autoload.inc.php' (include_path='.:/opt/php54/lib/php') in /home2/auzziech/public_html/element_new/qs-php-master/pdf_design_ahmad/pdf_design/ss.php on line 87
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[08-Apr-2021 21:04:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[08-Apr-2021 21:04:36 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[13-Apr-2021 04:21:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[13-Apr-2021 04:21:41 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[13-Apr-2021 04:21:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[13-Apr-2021 04:21:43 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[29-Jun-2021 03:01:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[29-Jun-2021 03:01:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[29-Jun-2021 03:01:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[29-Jun-2021 03:01:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[29-Jun-2021 03:01:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[29-Jun-2021 03:01:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[29-Jun-2021 03:01:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[29-Jun-2021 03:01:55 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[29-Jun-2021 03:01:59 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[29-Jun-2021 03:01:59 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[29-Jun-2021 03:01:59 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[29-Jun-2021 03:01:59 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[29-Jun-2021 03:01:59 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[29-Jun-2021 03:01:59 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[29-Jun-2021 03:01:59 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[29-Jun-2021 03:01:59 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[29-Jun-2021 03:02:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[29-Jun-2021 03:02:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[29-Jun-2021 03:02:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[29-Jun-2021 03:02:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[29-Jun-2021 03:02:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[29-Jun-2021 03:02:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[29-Jun-2021 03:02:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[29-Jun-2021 03:02:12 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[29-Jun-2021 03:02:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[29-Jun-2021 03:02:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[29-Jun-2021 03:02:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[29-Jun-2021 03:02:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[29-Jun-2021 03:02:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[29-Jun-2021 03:02:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[29-Jun-2021 03:02:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[29-Jun-2021 03:02:36 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[29-Jun-2021 03:02:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[29-Jun-2021 03:02:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[29-Jun-2021 03:02:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[29-Jun-2021 03:02:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[29-Jun-2021 03:02:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[29-Jun-2021 03:02:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[29-Jun-2021 03:02:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[29-Jun-2021 03:02:48 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[29-Jun-2021 03:09:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[29-Jun-2021 03:09:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[29-Jun-2021 03:09:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[29-Jun-2021 03:09:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[29-Jun-2021 03:09:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[29-Jun-2021 03:09:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[29-Jun-2021 03:09:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[29-Jun-2021 03:09:57 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[28-Jul-2021 09:33:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[28-Jul-2021 09:33:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[28-Jul-2021 09:33:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[28-Jul-2021 09:33:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[28-Jul-2021 09:33:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[28-Jul-2021 09:33:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[28-Jul-2021 09:33:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[28-Jul-2021 09:33:24 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[28-Jul-2021 09:33:31 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[28-Jul-2021 09:33:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[28-Jul-2021 09:33:32 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[28-Jul-2021 09:33:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[28-Jul-2021 09:33:33 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[28-Jul-2021 09:33:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[28-Jul-2021 09:33:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[28-Jul-2021 09:33:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[28-Jul-2021 09:33:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[28-Jul-2021 09:33:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[28-Jul-2021 09:33:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[28-Jul-2021 09:33:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[28-Jul-2021 09:33:33 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[08-Aug-2021 23:37:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[08-Aug-2021 23:37:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[08-Aug-2021 23:37:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[08-Aug-2021 23:37:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[08-Aug-2021 23:37:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[08-Aug-2021 23:37:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[08-Aug-2021 23:37:41 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[08-Aug-2021 23:37:41 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[08-Aug-2021 23:37:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[08-Aug-2021 23:37:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[08-Aug-2021 23:37:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[08-Aug-2021 23:37:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[08-Aug-2021 23:37:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[08-Aug-2021 23:37:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[08-Aug-2021 23:37:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[08-Aug-2021 23:37:46 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:43 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:45 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:47 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:47 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:47 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:47 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:47 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:47 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:47 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:47 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:52 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:52 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:52 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:53 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:53 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:53 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:53 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:53 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:54 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:55 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:55 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:55 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[07-Dec-2021 03:58:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[07-Dec-2021 03:58:56 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[01-Mar-2022 10:10:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[01-Mar-2022 10:10:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[01-Mar-2022 10:10:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[01-Mar-2022 10:10:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[01-Mar-2022 10:10:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[01-Mar-2022 10:10:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[01-Mar-2022 10:10:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[01-Mar-2022 10:10:07 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[22-Mar-2022 00:32:39 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[22-Mar-2022 00:32:39 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[22-Mar-2022 00:32:39 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[22-Mar-2022 00:32:39 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[22-Mar-2022 00:32:39 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[22-Mar-2022 00:32:39 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[22-Mar-2022 00:32:39 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[22-Mar-2022 00:32:39 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[22-Mar-2022 00:32:43 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[22-Mar-2022 00:32:52 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[22-Mar-2022 00:33:08 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[22-Mar-2022 00:35:40 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[22-Mar-2022 00:35:57 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[22-Mar-2022 00:36:11 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[27-Mar-2022 23:23:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 624
+[27-Mar-2022 23:23:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php on line 645
+[27-Mar-2022 23:23:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 454
+[27-Mar-2022 23:23:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 461
+[27-Mar-2022 23:23:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 468
+[27-Mar-2022 23:23:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/lib/Cpdf.php on line 475
+[27-Mar-2022 23:23:55 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Css/Stylesheet.php on line 1132
+[27-Mar-2022 23:23:55 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48
+[31-Mar-2022 05:46:54 America/Chicago] PHP Fatal error:  Uncaught Dompdf\Exception: No block-level parent found.  Not good. in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php:48
+Stack trace:
+#0 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(788): Dompdf\Positioner\Inline->position()
+#1 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Text.php(360): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameReflower/Page.php(133): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home2/auzziech/public_html/element_new/pdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(801): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home2/auzziech/public_html/element_new/pdf/dompdf/src/Dompdf.php(834): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 /home2/ in /home2/auzziech/public_html/element_new/pdf/dompdf/src/Positioner/Inline.php on line 48

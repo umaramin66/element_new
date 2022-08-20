@@ -1,0 +1,9 @@
+[20-Mar-2022 07:04:20 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/email/index.php on line 1
+[20-Mar-2022 07:04:20 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/email/index.php on line 1
+[20-Mar-2022 07:04:20 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/auzziech/public_html/element_new/email/index.php on line 1
+[20-Mar-2022 07:54:09 America/Chicago] PHP Warning:  require(assets/inc/initDb.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/email/header.php on line 3
+[20-Mar-2022 07:54:09 America/Chicago] PHP Warning:  require(assets/inc/initDb.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/email/header.php on line 3
+[20-Mar-2022 07:54:09 America/Chicago] PHP Fatal error:  require(): Failed opening required 'assets/inc/initDb.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/auzziech/public_html/element_new/email/header.php on line 3
+[20-Mar-2022 07:54:16 America/Chicago] PHP Warning:  require(assets/inc/initDb.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/email/header.php on line 3
+[20-Mar-2022 07:54:16 America/Chicago] PHP Warning:  require(assets/inc/initDb.php): failed to open stream: No such file or directory in /home2/auzziech/public_html/element_new/email/header.php on line 3
+[20-Mar-2022 07:54:16 America/Chicago] PHP Fatal error:  require(): Failed opening required 'assets/inc/initDb.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/auzziech/public_html/element_new/email/header.php on line 3
